@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "353303",
+                "count": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.51390696,
+                    25.0379493895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "134686",
+                "count": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45485718500001,
+                    22.470489203
+                ]
+            }
+        }
+    ]
+}

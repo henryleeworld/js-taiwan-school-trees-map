@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "183313",
+                "count": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.001223635,
+                    24.798230762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "064548",
+                "count": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678041205,
+                    24.1071753735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "074719",
+                "count": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.50480323,
+                    23.9181006055
+                ]
+            }
+        }
+    ]
+}
