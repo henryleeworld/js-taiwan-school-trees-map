@@ -177,6 +177,7 @@ function showPoint(pointId) {
                     }
                     vectorTree.getSource().clear();
                     vectorTree.getSource().addFeatures(treeFeatures);
+                    sidebar.close();
                 });
             }
         }
@@ -259,6 +260,7 @@ $.getJSON('data/tree.json', {}, function(items) {
                 }),
                 url: 'data/tree/' + ui.item.value + '.json'
             }));
+            sidebar.close();
         }
     });
 });
